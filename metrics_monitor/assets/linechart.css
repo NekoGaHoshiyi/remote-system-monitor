@@ -1,0 +1,102 @@
+.line_chart_one{
+    width: 600px;
+    height: 300px;
+    float: left;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.line_chart_one_big{
+    margin-top:40px;
+    height: 570px;
+}
+.graph_div{
+    margin-top : 40px;
+}
+.dcc_dropdown{
+    float: left;
+    width: 300px;
+    display:inline;
+    /*width: 50%;*/
+
+    /*height: 15px;*/
+    /*margin: auto;*/
+    margin-top: 4px;
+    margin-bottom:0;
+    margin-left:20px;
+    font-size: 15px;
+}
+
+.graph_container{
+    width: 620px;
+    height: 440px;
+    float: left;
+    border:1px solid;
+    margin:1px;
+}
+.graph_container_big{
+    margin-top: 75px;
+    width: 1220px;
+    height: 750px;
+    float: left;
+    border:1px solid;
+    margin:1px;
+}
+
+.time_input{
+    vertical-align: middle;
+    resize: none;
+    width: 155px;
+    height: 15px;
+    display:inline;
+}
+
+.inline{
+    margin-left:10px;
+    vertical-align: middle;
+    display:inline;
+}
+
+.inline_red{
+    margin-left:10px;
+    vertical-align: middle;
+    display:inline;
+    color:red;
+}
+.refreshbtn {
+    vertical-align: middle;
+    display: inline;
+    margin-right: 100px;
+    float: right;
+    height: 32px;
+}
+
+.time_input_hidden{
+    display:none;
+}
+
+.logs_div{
+    width: 650px;
+    height:750px;
+    float: right;
+    border:1px solid;
+    margin:1px;
+}
+
+#get_alert_logs{
+    overflow-y: scroll;
+    width: 600px;
+    height:700px;
+    float: right;
+    margin-left:20px;
+}
+.alert_item{
+    color:red;
+}
+
+.clear_alert_btn{
+    margin-left:10px;
+}
+
+.clear_alert_time{
+    margin-left:10px;
+}
